@@ -9,7 +9,7 @@
 <!-- Tech carousel -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;AI%2FML+Enthusiast;Always+expanding+my+tech-stack;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;AI%2FML+Enthusiast;Always+expanding+my+tech-stack;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,9 +25,8 @@
         <li>🔭 I’m currently working on AI-powered Resume Maker</li>
         <li>🌱 I’m currently learning Spring-Boot</li>
         <li>👯 I’m looking to collaborate on a CRUD app</li>
-        <li>👨‍💻 My portfolio: <a href="https://shashwatsingh.vercel.app/">shashwatsingh.vercel.app</a></li>
         <li>💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, Tailwind</li>
-        <li>📫 How to reach me: sshashwatssingh@gmail.com</li>
+        <li>📫 How to reach me: vcbiz7340@gmail.com</li>
         <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li>
       </ul>
     </td>
@@ -45,11 +44,9 @@
   
 ## 🌐 Socials:
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shhashwat.bsky.social)--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shhashwat)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29359889)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshashwatssingh@gmail.com) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shhashwat) 
-<a href="https://dev.to/shhashwat">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viksaa)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vcbiz7340@gmail.com)  
+<a href="https://dev.to/vickiviku">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV Profile" width="30" height="20">
 </a>
 
@@ -62,9 +59,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shhashwat&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api?username=vickiviku&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vickiviku&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickiviku&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <br><br>
